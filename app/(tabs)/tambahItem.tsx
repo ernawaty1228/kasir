@@ -73,7 +73,7 @@ export default function TambahItemScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 20, backgroundColor: '#ffffff' },
-  title: { fontSize: 20, fontWeight: 'bold', marginBottom: 20 },
+  title: { fontSize: 20, fontWeight: 'bold', marginBottom: 20 ,marginTop:20},
   label: { fontSize: 14, fontWeight: 'bold', color: '#7078D3', marginBottom: 5 },
   input: {
     borderBottomWidth: 1,
